@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <h1 align="center">Home Rent Application</h1>
-  <h4 align="center">- An android application -</h3>
+  <h4 align="center">- A Flutter application -</h3>
 </p>
 
 
@@ -13,7 +13,9 @@
 
 ## About The Project
 
- This app is connecting dots between tenant and house owner
+ This app is connecting dots between tenant and house owner.
+ Tenants can find best fit house as per their requierments.
+ House owner can put their house for rent.
 
 ### Built With
 - [Android Studio](https://developer.android.com/guide)
