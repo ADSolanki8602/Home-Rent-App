@@ -1,16 +1,26 @@
-# home_rent_app
 
-A new Flutter application.
 
-## Getting Started
+<br />
+<p align="center">
+  <h1 align="center">Home Rent Application</h1>
+  <h4 align="center">- An android application -</h3>
+</p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<!-- ABOUT THE PROJECT -->
+
+## About The Project
+
+ This app is connecting dots between tenant and house owner
+
+### Built With
+- [Android Studio](https://developer.android.com/guide)
+- [Flutter](https://flutter.dev/) For frontend layouts designing(Framework).
+- [Dart](https://dart.dev/) For bakend implementation.
+- [Fierbase](https://firebase.google.com/) For database
+
+## Contact
+
+- [@ADSolanki8602](https://github.com/ADSolanki8602)
